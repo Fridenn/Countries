@@ -64,7 +64,7 @@ INSERT INTO `countries` (`code`, `name`, `native`, `phone`, `continent`, `capita
   ('BT', 'Bhutan', 'ʼbrug-yul', '975', 'AS', 'Thimphu', 'BTN,INR', 'dz'),
   ('BV', 'Bouvet Island', 'Bouvetøya', '', 'AN', '', 'NOK', ''),
   ('BW', 'Botswana', 'Botswana', '267', 'AF', 'Gaborone', 'BWP', 'en,tn'),
-  ('BY', 'Belarus', 'Белару́сь', '375', 'EU', 'Minsk', 'BYR', 'be,ru'),
+  ('BY', 'Republic of Belarus', 'Республика Беларусь', '375', 'EU', 'Minsk', 'BYR', 'be,ru'),
   ('BZ', 'Belize', 'Belize', '501', 'NA', 'Belmopan', 'BZD', 'en,es'),
   ('CA', 'Canada', 'Canada', '1', 'NA', 'Ottawa', 'CAD', 'en,fr'),
   ('CC', 'Cocos [Keeling] Islands', 'Cocos (Keeling) Islands', '61', 'AS', 'West Island', 'AUD', 'en'),
